@@ -69,6 +69,10 @@ Here is the respective html code
 </html>
 ```
 
-The above CSS and HTML give a layout that is displaced as in the image below.
+The above CSS and HTML code above give a layout that is displaced as in the image below.
 
 ![An images showing all the CSS Box models, that is, content, margin, border and margin](./assets/Box%20Model%20CSS.png)
+
+In summary these are the CSS Box Models we are talking about:
+
+![Summary of CSS Box Models displaying the margin, border, padding and content](./assets/Box%20Model%20Summary.png)
