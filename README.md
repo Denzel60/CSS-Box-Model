@@ -2,6 +2,19 @@
 
 The CSS Box Model is a fundamental concept in web development that defines how different parts of an HTML element work together to create the visual representation of that element on a webpage. Let’s break it down:
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**Table of Contents** _generated with [DocToc](https://github.com/thlorenz/doctoc)_
+
+- [CSS BOX MODEL](#css-box-model)
+  - [1. Content:](#1-content)
+  - [2. Padding:](#2-padding)
+  - [3. Border:](#3-border)
+  - [4. Margin:](#4-margin)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## 1. Content:
 
 The content area is where text, images, or other media appear within the element. <br>
